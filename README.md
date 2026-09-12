@@ -3,7 +3,10 @@ Advanced business analytics project utilizing the Excel Solver engine to run pre
 # Corporate Optimization & Prescriptive Business Analytics (Excel)
 
 ## 📊 Project Overview
-This project showcases an advanced administrative decision-making workflow using prescriptive analytics frameworks within Microsoft Excel. The analysis applies mathematical optimization, resource allocation algorithms, and risk sensitivity analysis to resolve operational bottlenecks and maximize corporate net income for a manufacturing and supply network.
+# Corporate Optimization & Prescriptive Business Analytics (Excel)
+
+## 📊 Project Overview
+This project showcases an advanced administrative decision-making workflow using prescriptive analytics frameworks applied to a realistic business scenario for **EcoVeda Organic Farm & Supply Co.** The analysis uses mathematical optimization, resource allocation algorithms, and risk sensitivity analysis to resolve operational bottlenecks, evaluate production changes, and maximize corporate net income across EcoVeda's manufacturing and supply network.
 
 ---
 
